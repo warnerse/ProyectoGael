@@ -1,0 +1,31 @@
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bienvenida.resources
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CrearCaso.resources
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administrador.resources
+C:\Users\INFOD_14\Documents\Gael Obando Benavides\Proyecto progra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tecnico.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\e1358309\Documents\Gael\Proyecto\bin\Debug\WindowsFormsApp1.exe
+C:\Users\e1358309\Documents\Gael\Proyecto\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Bienvenida.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.CrearCaso.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Registro.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Administrador.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Tecnico.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.exe
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\e1358309\Documents\Gael\Proyecto\obj\Debug\WindowsFormsApp1.Modificar.resources
